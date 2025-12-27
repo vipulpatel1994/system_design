@@ -1,0 +1,12 @@
+{
+  "name": "load-balancer-demo",
+  "version": "1.0.0",
+  "description": "Node.js backend services for Load Balancer practical demos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
